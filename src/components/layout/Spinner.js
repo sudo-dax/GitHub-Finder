@@ -1,4 +1,4 @@
-import React, {fragment} from 'react'
+import React from 'react'
 import spinner from './spinner.gif'
 import { Fragment } from 'react'
 
